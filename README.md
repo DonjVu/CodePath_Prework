@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 * [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
+* [x] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
@@ -45,10 +45,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-My friend helped me with wrapping my head around how the game logic should be implemented.
-
+N/A
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases, I understood the line of logic I had to folow
+The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases, I understood the line of logic I had to follow. I did not have much time to do the prework. However, I believe I would 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I had a question about how to optimize webpages and games for mobile usage? I was wondering if there is a separate or additional procedure that needs to be done to allow compatibility with IOS or Android devices? I want to learn the lifecycles of the development of website and games in order to familiarize myself with the procceses in web development. I first started coding with python and java, so I don't have a good grasp of HTML, CS, and JS just yet. I have been exposed to those tools when I created a website to serve as my portfolio, however, I did use a lot of boilerplate code in order to style my portfolio. I do look forward to learning more about web development, especially on the front end. Furthermore, this project has encouraged me to learn JS in roder to strengthen my web development, but also explore different stylings in CSS.
