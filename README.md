@@ -48,17 +48,16 @@ Here's a walkthrough of implemented user stories:
 My friend helped me with wrapping my head around how the game logic should be implemented.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases,
-I understood the line of logic I had to folow
+The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases, I understood the line of logic I had to folow
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I had question of how to optimize webpages and games for mobile usage? I was wondering if there is a seperate or additional procedure that needs to be done to allow compatability
-with IOS or android devices? 
+I had a question about how to optimize webpages and games for mobile usage? I was wondering if there is a separate or additional procedure that needs to be done to allow compatibility with IOS or Android devices? I want to learn the lifecycles of the development of website and games in order to familiarize myself with the procceses in web development. I first started coding with python and java, so I don't have a good grasp of HTML, CS, and JS just yet. I have been exposed to those tools when I created a website to serve as my portfolio, however, I did use a lot of boilerplate code in order to style my portfolio. I do look forward to learning more about web development, especially on the front end. Furthermore, this project has encouraged me to learn JS in roder to strengthen my web development, but also explore different stylings in CSS.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I would probably be doing more additional features in order to improve the quality and aesthetics of the game. I had very little time due to my awareness of this opportunity
 being on the week of my midterms and a week before submissions were due. However, with the additional time I would have definitely added more features such as a control for 
-the volume and better aesthetics for the button such as a theme for the entire page. 
+the volume and better aesthetics for the button such as a theme for the entire page. Futhermore, I believe with more time I could've explored
 
 
 
