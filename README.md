@@ -56,7 +56,7 @@ I had a question about how to optimize webpages and games for mobile usage? I wa
 
 I would probably be doing more additional features in order to improve the quality and aesthetics of the game. I had very little time due to my awareness of this opportunity
 being on the week of my midterms and a week before submissions were due. However, with the additional time I would have definitely added more features such as a control for 
-the volume and better aesthetics for the button such as a theme for the entire page. Futhermore, I would have liked to add a timer to the game. I believe a timer would make it the game much more interesting and allow me to explore HTML's syntax further. I would have definitely added more buttons and added images to the buttons. Adding images and more buttons would probably help me learn how to design websites for other projects as well. In the end, I wish I had more time to do the pre-work and I hope I will be able to do more work like this in the future.
+the volume and better aesthetics for the button such as a theme for the entire page. Futhermore, I would have liked to add a timer and a radomizer to the game. I believe a timer and a randomizer would make it the game much more interesting and allow me to explore HTML's syntax further and help me practice developing game logic. I would have definitely added more buttons and added images to the buttons. Adding images and more buttons would probably help me learn how to design websites for other projects as well. In the end, I wish I had more time to do the pre-work and I hope I will be able to do more work like this in the future.
 
 
 
