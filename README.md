@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x]file:///C:/Users/Donald%20Vu/Downloads/MemoryGame.gif
+![x]![MemoryGame](https://user-images.githubusercontent.com/56244566/112430815-e618d880-8cfb-11eb-865e-f6a6973e7bad.gif)
+
 
 
 ## Reflection Questions
