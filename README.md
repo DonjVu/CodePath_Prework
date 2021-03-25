@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 N/A
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases, I understood the line of logic I had to follow. I did not have much time to do the prework. However, I believe I would 
+The majority of my time was spent implementing the gaming logic. I am still new to web development and game development so I had trouble getting started. However once I understood the results of my different test cases, I understood the line of logic I had to follow. I did not have much time to do the prework. However, I believe I would have trouble implementing a timer. This would require me to make a visible counter appear at the beginning of the round and reset every time a new round starts. Further, the timer would end the game once the timer is up. I would have to do a lot of self-studying in order to build the timer since I don't have a lot of experience in HTML. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 I had a question about how to optimize webpages and games for mobile usage? I was wondering if there is a separate or additional procedure that needs to be done to allow compatibility with IOS or Android devices? I want to learn the lifecycles of the development of website and games in order to familiarize myself with the procceses in web development. I first started coding with python and java, so I don't have a good grasp of HTML, CS, and JS just yet. I have been exposed to those tools when I created a website to serve as my portfolio, however, I did use a lot of boilerplate code in order to style my portfolio. I do look forward to learning more about web development, especially on the front end. Furthermore, this project has encouraged me to learn JS in roder to strengthen my web development, but also explore different stylings in CSS.
@@ -56,7 +56,7 @@ I had a question about how to optimize webpages and games for mobile usage? I wa
 
 I would probably be doing more additional features in order to improve the quality and aesthetics of the game. I had very little time due to my awareness of this opportunity
 being on the week of my midterms and a week before submissions were due. However, with the additional time I would have definitely added more features such as a control for 
-the volume and better aesthetics for the button such as a theme for the entire page. Futhermore, I believe with more time I could've explored
+the volume and better aesthetics for the button such as a theme for the entire page. Futhermore, I would have liked to add a timer to the game. I believe a timer would make it the game much more interesting and allow me to explore HTML's syntax further. I would have definitely added more buttons and added images to the buttons. Adding images and more buttons would probably help me learn how to design websites for other projects as well. In the end, I wish I had more time to do the pre-work and I hope I will be able to do more work like this in the future.
 
 
 
